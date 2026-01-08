@@ -51,7 +51,7 @@ Clear button resets the calculator display
 
 Clone the repository:
 
-git clone https://github.com/your-username/js-calculator.git
+git clone https://github.com/usama247550/calculator-js.git
 
 Open the project folder
 
@@ -60,7 +60,13 @@ Open index.html in your browser
 ✅ No installation or setup required
 
 ## 📸 Screenshots
-
+<table>
+  <tr>
+    <td>
+      <img src="calculator.png" width="500"/>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Use Case
 
@@ -91,5 +97,6 @@ LinkedIn: https://www.linkedin.com/in/usama-javed-112186320
 ## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
+
 
 
